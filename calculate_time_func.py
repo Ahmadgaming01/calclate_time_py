@@ -10,7 +10,7 @@ def calculate_time(func):
 @calculate_time
 def myloop(n):
     for x in range(n):
-        pass
+        
 myloop(1000)
 
 @calculate_time
